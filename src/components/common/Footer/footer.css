@@ -1,0 +1,36 @@
+.footer-wrapper {
+  padding: 100px 0;
+  height: 700px;
+  background-color: var(--bg-black);
+}
+.footer {
+  margin-bottom: 80px;
+}
+.cred-logo {
+  width: 168px;
+}
+
+.security-logo {
+  width: 405px;
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+.logo-sec {
+  margin-right: 150px;
+}
+
+.col-gap {
+  margin-right: 150px;
+}
+
+.section {
+  margin-bottom: 40px;
+}
+.products-sec {
+  margin-bottom: 80px;
+}
+
+.copyright {
+  margin-right: 200px;
+}

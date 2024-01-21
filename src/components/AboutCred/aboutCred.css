@@ -1,0 +1,39 @@
+.about-cred-wrapper {
+  background-color: var(--bg-gray);
+}
+.about-cred {
+  padding: 100px 0;
+}
+
+.sec-heading {
+  font-weight: 700;
+  font-size: 18px;
+  color: var(--white);
+  margin-bottom: 25px;
+}
+
+.sec-para {
+  font-size: 18px;
+  color: var(--white);
+  opacity: 0.7;
+  line-height: 33px;
+  letter-spacing: 0.75px;
+}
+
+.sec {
+  margin-bottom: 70px;
+}
+
+@media all and (max-width: 1279px) {
+  .sec-heading {
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 0.5px;
+    margin-bottom: 16px;
+  }
+  .sec-para {
+    font-size: 12px;
+    line-height: 22px;
+    letter-spacing: 0.5px;
+  }
+}
