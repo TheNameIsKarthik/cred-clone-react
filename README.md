@@ -1,5 +1,15 @@
 # CRED Clone - Credit Card Bill Payment Platform
 
+[![Status](https://img.shields.io/badge/Status-Live-brightgreen)](https://cred-clone-react.onrender.com/)
+[![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
+[![Deployment](https://img.shields.io/badge/Deployed%20on-Render-00AD9F.svg)](https://render.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://cred-clone-react.onrender.com/)
+
+## 🌐 Live Demo
+
+**[View Live Demo](https://cred-clone-react.onrender.com/)**
+
 A modern, responsive React-based clone of the CRED credit card bill payment platform. This project replicates the sleek design and user experience of CRED, featuring a comprehensive landing page with multiple interactive sections.
 
 ## 🚀 Features
